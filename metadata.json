@@ -1,0 +1,5 @@
+{
+  "name": "Personalized Weather Dashboard",
+  "description": "A weather dashboard that fetches current weather data from the Open-Meteo API based on a student index number. It derives coordinates, displays weather, and caches the last successful result for offline use.",
+  "requestFramePermissions": []
+}
